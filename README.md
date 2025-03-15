@@ -1,4 +1,4 @@
-Este projeto tem o visa servir como um ambiente em que seja possível desenhar, importar imagens e manipular estes itens. O programa faz uso de html, css e javascript, fazendo uso do fabric.js.
+Este projeto visa servir como um ambiente em que seja possível desenhar, importar imagens e manipular estes itens. O programa faz uso de html, css e javascript, fazendo uso do fabric.js.
 O objetivo primário em sua concepção era para ser um ambiente em que seria possível realizar sessões de jogos estilo RPG. A versão deste projeto é a versão OFFLINE. 
 
 Conta com:
