@@ -1,5 +1,6 @@
 Este projeto visa servir como um ambiente em que seja possível desenhar, importar imagens e manipular estes itens. O programa faz uso de html, css e javascript, fazendo uso do fabric.js.
 O objetivo primário em sua concepção era para ser um ambiente em que seria possível realizar sessões de jogos estilo RPG. A versão deste projeto é a versão OFFLINE. 
+A intenção primária era ser um serviço online, que por sua vez levou ao desenvolvimento com server.js e express, que perduraram na versão offline.
 
 Conta com:
 * Ferramentas Desenhar, Selecionar, Mover (e Recentralizar), Borracha e Régua.
@@ -21,3 +22,7 @@ Depois, ainda em /canvas-project, digite no prompt:
 node server.js
 
 E o arquivo estará rodando na porta 3000. Abra seu navegador em localhost:3000 e poderá usar o programa.
+
+<h1>OU</h1>
+
+Encontre o arquivo canvas-project/public/index.html e execute-o em seu navegador.
